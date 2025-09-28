@@ -21,6 +21,6 @@ Quick start (Colab)
 2. Mount Drive and ensure ROOT points to the folder containing k-fold & test.
 3. pip install -r requirements.txt
 4. Run:
-   python -m sace_cv.run_cv --root /content/drive/MyDrive/MoNuSegnet
+   python -m sace_cv.run_cv --root /content/....datapath
 
 For debugging, use --quick to run fewer epochs/folds.
