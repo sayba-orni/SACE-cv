@@ -1,4 +1,4 @@
-# SACE Cross-Validation & Ablation (Modular)
+# SACE Cross-Validation & Ablation 
 
 This repository contains modular code to run 5-fold cross-validation using the SACE (MRF + token attention) segmentation architecture and evaluate each fold's best checkpoint on an external test set.
 
